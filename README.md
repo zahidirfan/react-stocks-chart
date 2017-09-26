@@ -17,6 +17,7 @@ The symbol information is provided in the Funds tag as property.
 
 ```
 <Funds symbol='AAPL'/>
+
 ```
 
 # Screen Shot
